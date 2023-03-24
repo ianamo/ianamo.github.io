@@ -28,7 +28,7 @@ twitter_username: nihilsub
 github_username:  ianamo
 
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-feed
 
