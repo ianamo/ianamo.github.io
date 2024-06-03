@@ -5,14 +5,14 @@ permalink: /projects/
 ---
 
 Check out some of my development projects!
- L?>## Machine Learning / Data Science
- L?>## Machine Learning / Data Science
+
+### Machine Learning / Data Science
 
 - [Language Detection by Average Letter Distribution](https://github.com/ianamo/language-detection/blob/main/Language%20Detection%20by%20Average%20Letter%20Distribution.ipynb) exploring the efficiency of modeling languages by their letter distributions for language detection.
 
 ### Stochastic Models
 
--[Pandemic](https://github.com/ianamo/pandemic) Pandemic is a stochastic model for conceptualizing the "curve" of a pandemic outbreak.
+- [Pandemic](https://github.com/ianamo/pandemic) Pandemic is a stochastic model for conceptualizing the "curve" of a pandemic outbreak.
 - [Simulating the Monty Hall Problem in Python](https://medium.com/@ianamo86/simulating-the-monty-hall-problem-in-python-23a5a9611424) using code to shed light on the solution to this famously difficult problem.
 
 ### Web Scraping
