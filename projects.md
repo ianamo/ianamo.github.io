@@ -6,6 +6,10 @@ permalink: /projects/
 
 Check out some of my development projects!
 
+### Generative AI
+
+- [Domo](https://github.com/ianamo/domo) an app that will convert a CSV file into as many thank-you emails as you desire. The ethics are questionable. The functionality is real.
+
 ### Machine Learning / Data Science
 
 - [Language Detection by Average Letter Distribution](https://github.com/ianamo/language-detection/blob/main/Language%20Detection%20by%20Average%20Letter%20Distribution.ipynb) exploring the efficiency of modeling languages by their letter distributions for language detection.
@@ -30,5 +34,5 @@ Check out some of my development projects!
 
 ### Full-Stack Web Apps
 
-- [Alexandria](https://superb-sable-476bca.netlify.app/) a full-stack MERN app for recording books in a database by their ISBNs. Backend API is written in NodeJS and hosed via Heroku and writing to a Mongo cloud database. Frontend is in React. Books can be added by ISBN, and users can be added to the DB via Google authentication. You can add books to your library once logged in, and request loans from other users. 
+- [Alexandria](https://github.com/ianamo/alex-client) a full-stack MERN app for recording books in a database by their ISBNs. Backend API is written in NodeJS and hosed via Heroku and writing to a Mongo cloud database. Frontend is in React. Books can be added by ISBN, and users can be added to the DB via Google authentication. You can add books to your library once logged in, and request loans from other users. No longer hosted &mdash; link is to the code for the client side app. 
 - [Micron-Blog](https://github.com/ianamo/micron-blog) a full-stack MERN app for setting up a micro-blog in the spirit of the early days of Twitter. Does not implement authentication, so not really usable as a public website, but demonstrates REST API concepts and their integration into the state of a React app. Components styled with Material-UI. Not currently hosted -- the link is to the repository's source code.
