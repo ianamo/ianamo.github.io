@@ -1,7 +1,7 @@
-&mdash;-
+---
 layout: post
 title: The Ethics of Using AI... To Write Your Thank-You Notes?
-&mdash;-
+---
 
 We're well accustomed to an ongoing conversations about the ethics of AI &mdash; the ethics of using other people's data to train AI, the ethics of using AI on [academic assignments](https://www.theatlantic.com/technology/archive/2024/08/another-year-ai-college-cheating/679502/) or even [legal briefs](https://www.reuters.com/legal/new-york-lawyers-sanctioned-using-fake-chatgpt-cases-legal-brief-2023-06-22/) &mdash; but what about the ethics of using AI to write... thank-you notes??
 
