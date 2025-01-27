@@ -8,6 +8,8 @@ Check out some of my development projects!
 
 ### Generative AI
 
+- [Algo Tutor](https://github.com/ianamo/algo-tutor) Algo Tutor uses generative AI to bridge the gap between a traditional coding problems site (like Leetcode) and a full-on tutorial. Run your code through Algo Tutor with a comment describing what it's supposed to do, and it will spin up a chat to tutor you through the process of getting the code working.
+
 - [Domo](https://github.com/ianamo/domo) an app that will convert a CSV file into as many thank-you emails as you desire. The ethics are questionable. The functionality is real.
 
 ### Machine Learning / Data Science
