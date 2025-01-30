@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ian Mosley is a developer working with the MERN stack and Python. My interests include languages, recreational mathematics, and literature.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: empiricalian
+# twitter_username: empiricalian
 github_username:  ianamo
 
 # Build settings
