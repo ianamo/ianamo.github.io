@@ -7,7 +7,7 @@ You've probably heard a lot about the Chinese AI Deepseek. It has been outperfor
 
 My latest project is one called [Algo-Tutor](https://github.com/ianamo/algo-tutor). I've been trying to brush up on my algorithms using LeetCode, and was hoping to leverage LLMs as a kind of tutor when I couldn't quite get the hang of a problem. Unfortunately, Chat-GPT would skip straight to telling me the answer without trying to guide me along. So I decided to try running LLMs locally with a custom system prompt so that it would spin up a chat session stepping me through the problem. I'm just running a MacBook Air on Apple Silicon, so I can't run the biggest models, but I got reasonably good results from Gemma2 and Llama3.2 at about the two billion parameter range. 
 
-So I figured, why not try DeepSeek for the same task? At first I had made a mistake, because the script just hung there after I entered the command. From other experiments, however, I knew that DeepSeek's pre-thinking stage meant that it had to run for a while before spitting out an answer, so I decided to let it run and see what I got. 
+So I figured, why not try DeepSeek for the same task? At first I thought I had made a mistake, because the script just hung there after I entered the command. From other experiments, however, I knew that DeepSeek's pre-thinking stage meant that it had to run for a while before spitting out an answer, so I decided to let it run and see what I got. 
 
 I checked back later and saw that I had a result.
 
