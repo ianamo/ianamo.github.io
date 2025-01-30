@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deepseek &mdash; how much is hype?
+title: Deepseek -- how much is hype?
 ---
 
 You've probably heard a lot about the Chinese AI Deepseek. It has been outperforming proprietary AIs on a bunch of benchmarks, and it was supposedly trained with much less expense than went into creating American models like Chat-GPT. This has sent stocks tumbling, and stoked fears about an AI bubble bursting. I was excited to download the model and give it a shot &mdash; I have been experimenting for a while with running LLMs locally, including for such shady deeds as having it [write my thank-you notes](https://ianamo.github.io/2024/11/27/ethics-thankyous-ai.html) (not that I've ever actually used that script...). 
