@@ -1,5 +1,5 @@
 ---
-title:Building a Book Lending App in Apple Shortcuts
+title: Building a Book Lending App in Apple Shortcuts
 layout: post
 ---
 
