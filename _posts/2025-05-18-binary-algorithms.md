@@ -30,7 +30,7 @@ Notice the bitwise operators `>>` and `&` that allow us to shift and compare bit
 
 This algorithm came to mind again while playing the [[Zachtronics]] game *Exapunks* (which essentially is a delightful assortment of tightly designed programming puzzles). **Note that what follows is a spoiler for one of the puzzles! I would recommend saving it unless you have already seen it or have no desire to play the game!** 
 
-![](exa_screen.jpg)
+![](assets/images/exa_screen.jpg)
 
 As you can see, you have a little programmable robot called an _Exa_ that you need to guide to the destination file, which can exist at the end of any of the eight branches. There is no function to detect or otherwise direct the Exa to scan for the file or the other EXA who is holding it, so we need to find a way to keep generating Exas until we have explored every branch of the computer network. 
 
@@ -82,6 +82,6 @@ FJMP MAKEROUTE
 
 Then we just read the bits from the file we've made to determine our route; the last step is just to use `REPL` within a master loop to count down from 7 to 0, each time creating a new EXA and going through the process of making a file and performing the necessary divisions. Here's what the completed solution looks like: 
 
-![](exapunks_clip.gif)
+![](assets/images/exapunks_clip.gif)
 
 I am certain this is far from the most efficient solution, but what appeals to me about it is its conceptual simplicity and its use of the binary algorithm described above.
