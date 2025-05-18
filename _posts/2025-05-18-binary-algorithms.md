@@ -28,7 +28,7 @@ def permute(s):
 
 Notice the bitwise operators `>>` and `&` that allow us to shift and compare bits in a binary fashion. 
 
-This algorithm came to mind again while playing the [[Zachtronics]] game *Exapunks* (which essentially is a delightful assortment of tightly designed programming puzzles). **Note that what follows is a spoiler for one of the puzzles! I would recommend saving it unless you have already seen it or have no desire to play the game!** 
+This algorithm came to mind again while playing the [Zachtronics](https://www.zachtronics.com) game *Exapunks* (which essentially is a delightful assortment of tightly designed programming puzzles). **Note that what follows is a spoiler for one of the puzzles! I would recommend saving it unless you have already seen it or have no desire to play the game!** 
 
 ![](https://ianamo.github.io/assets/images/exa_screen.jpg)
 

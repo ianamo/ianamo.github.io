@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ec539b1573a60bb",
+        "id": "e8d0346d3f46f2d5",
         "type": "tabs",
         "children": [
           {
-            "id": "bce719f636d102b6",
+            "id": "a07f16729d5b499b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bce719f636d102b6",
+  "active": "a07f16729d5b499b",
   "lastOpenFiles": [
-    "exa_screen.jpg",
+    "Zachtronics.md",
     "2025-05-18-binary-algorithms.md",
+    "exa_screen.jpg",
     "exapunks_clip.gif",
     "EXAPUNKS screenshot.jpg",
     "EXAPUNKS - UNKNOWN NETWORK 1 (73, 36, 44, 2025-05-11-12-00-04).gif"
