@@ -1,3 +1,9 @@
+---
+title: Binary Algorithms
+layout: post
+---
+
+
 I suspect these kinds of algorithms have already been better explained elsewhere, but if so I can't seem to find where, so I might as well write this up.
 
 Suppose you're trying to find all possible permutations of a string: you have `ABC`, and you want to be able to derive `ACB`, `BAC`, etc. One simple way to do this is to think of the total number of permutations (equal to `factorial(n)`) as a binary number that contains a set of instructions on how to swap the elements of the string. `2*3*1` would of course be six, which in binary is `110`. In this way, the binary numbers from `000` to `101` will be interpreted as instructions either to swap or not to swap the element at that position with the one previous to it. So, `ABC` with `000` will be the original string `ABC` -- no letter is swapped. `001` will be `ACB`, with the third element swapped with the one before. 
