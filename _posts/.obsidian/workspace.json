@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "ec5357c852704df7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ec539b1573a60bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bce719f636d102b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-05-18-binary-algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-18-binary-algorithms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5009ed0ccb23f551",
+    "type": "split",
+    "children": [
+      {
+        "id": "8282a5375a245a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6255b4ad07723bf9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "71f15243189995b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eaa554617ca38ccf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31dbcb32ae0e6de0",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ff1c732cf28861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39d3329554bb21f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-05-18-binary-algorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-05-18-binary-algorithms"
+            }
+          },
+          {
+            "id": "25197163dfee4664",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-05-18-binary-algorithms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-05-18-binary-algorithms"
+            }
+          },
+          {
+            "id": "fd48654dc1f92edc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8f7759b37cd099b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-05-18-binary-algorithms.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-05-18-binary-algorithms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bce719f636d102b6",
+  "lastOpenFiles": [
+    "exa_screen.jpg",
+    "2025-05-18-binary-algorithms.md",
+    "exapunks_clip.gif",
+    "EXAPUNKS screenshot.jpg",
+    "EXAPUNKS - UNKNOWN NETWORK 1 (73, 36, 44, 2025-05-11-12-00-04).gif"
+  ]
+}
